@@ -35,7 +35,7 @@ class B3D {
      *
      * @param {Array} [objs] 3D物体
      *
-     * objs、B3D.objs 内的每一项都是一个 Obj 类。
+     * objs、B3D.objs 内的每一项都是一个 Obj 类（或类似 Obj 类的列表）。
      *
      * 如果已经设置了 B3D.objs , 可以选择不传入 Objs参数。
      *
